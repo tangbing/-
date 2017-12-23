@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>b</key>
+	<dict>
+		<key>alrBorrowQuota</key>
+		<string>3000</string>
+		<key>alrRepayQuota</key>
+		<string>0</string>
+		<key>loanList</key>
+		<array>
+			<dict>
+				<key>applyDate</key>
+				<string>2017-12-21 10:27:40</string>
+				<key>auditStatus</key>
+				<string>2</string>
+				<key>bankCardNo</key>
+				<string>12345687646464646</string>
+				<key>bankName</key>
+				<string>建设银行</string>
+				<key>loanId</key>
+				<string>151071d3e5f711e7bbbd00e04c730156</string>
+				<key>loanQuota</key>
+				<string>1000</string>
+				<key>repayType</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>applyDate</key>
+				<string>2017-12-19 16:55:16</string>
+				<key>auditStatus</key>
+				<string>2</string>
+				<key>bankCardNo</key>
+				<string>12345687646464646</string>
+				<key>bankName</key>
+				<string>建设银行</string>
+				<key>loanId</key>
+				<string>df637b05e49a11e7bbbd00e04c730156</string>
+				<key>loanQuota</key>
+				<string>2000</string>
+				<key>repayType</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>applyDate</key>
+				<string>2017-12-19 16:19:43</string>
+				<key>auditStatus</key>
+				<string>3</string>
+				<key>bankCardNo</key>
+				<string>12345687646464646</string>
+				<key>bankName</key>
+				<string>建设银行</string>
+				<key>loanId</key>
+				<string>e7d41735e49511e7bbbd00e04c730156</string>
+				<key>loanQuota</key>
+				<string>1581</string>
+				<key>repayType</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<key>noRepayQuota</key>
+		<string>3000.00</string>
+	</dict>
+</dict>
+</plist>
